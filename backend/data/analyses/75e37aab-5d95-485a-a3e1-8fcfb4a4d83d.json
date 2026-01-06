@@ -1,0 +1,57 @@
+{
+  "id": "75e37aab-5d95-485a-a3e1-8fcfb4a4d83d",
+  "fileName": "The Ultimate Python Handbook.pdf",
+  "uploadedAt": "2026-01-03T21:04:15.228Z",
+  "metadata": {
+    "fileSize": 1728887,
+    "fileType": ".pdf",
+    "pageCount": 61,
+    "info": {
+      "PDFFormatVersion": "1.7",
+      "IsAcroFormPresent": false,
+      "IsXFAPresent": false,
+      "Author": "Harry Codes",
+      "Creator": "Microsoft® Word for Microsoft 365",
+      "Producer": "3.0.10 (5.0.18) ",
+      "CreationDate": "D:20240616021211+05'30'",
+      "ModDate": "D:20240615224410+02'00'"
+    },
+    "wordCount": 8845
+  },
+  "analysis": {
+    "summary": "The Ultimate Python Programming Handbook is a comprehensive guide to mastering Python programming. The handbook is designed for beginners and aims to make programming accessible and enjoyable for everyone. It covers various aspects of Python, including fundamental concepts, practical examples, hands-on exercises, and additional resources. The handbook is divided into clear and concise chapters, each focused on a specific aspect of Python. The author extends gratitude to educators, programmers, and contributors who have shared their knowledge and insights, shaping the content of the handbook. The handbook aims to make the journey of learning programming smooth and rewarding.",
+    "keyPoints": [
+      "The handbook is designed for beginners and aims to make programming accessible and enjoyable for everyone.",
+      "It covers various aspects of Python, including fundamental concepts, practical examples, hands-on exercises, and additional resources.",
+      "The handbook is divided into clear and concise chapters, each focused on a specific aspect of Python.",
+      "Python is known for its simplicity and readability, making it perfect for beginners.",
+      "The handbook includes practice sets and exercises to reinforce learning and build confidence.",
+      "It also includes references to official Python documentation for deeper exploration.",
+      "The author extends gratitude to educators, programmers, and contributors who have shared their knowledge and insights."
+    ],
+    "entities": {
+      "people": [],
+      "organizations": [
+        "YouTube",
+        "Python community"
+      ],
+      "dates": [],
+      "locations": []
+    },
+    "sentiment": "Positive",
+    "actionItems": [
+      "Watch the video along with following the handbook for optimal learning.",
+      "Use the handbook as a stepping stone to success in the world of programming."
+    ],
+    "topics": [
+      "Python programming",
+      "Programming concepts",
+      "Beginner's guide",
+      "Hands-on exercises",
+      "Additional resources"
+    ],
+    "wordCount": 2467,
+    "readingTime": "12 minutes"
+  },
+  "documentText": "\n\n\n\n1 \n \nPREFACE \nWelcome to the “Ultimate Python Programming Handbook,\" your comprehensive guide to \nmastering Python programming. This handbook is designed for beginners and anyone looking to \nstrengthen their foundational knowledge of Python, a versatile and user-friendly programming \nlanguage. \nP U R P OS E   A N D   A U D I E N C E \nThis handbook aims to make programming accessible and enjoyable for everyone. Whether \nyou're a student new to coding, a professional seeking to enhance your skills, or an enthusiast \nexploring Python, this handbook will definitely be helpful. Python's simplicity and readability \nmake it an ideal starting point for anyone interested in programming. \nS T R U C T U R E   A N D   C O N T E N T \nThe handbook is divided into clear, concise chapters, each focused on a specific aspect of \nPython: \n• Fundamental Concepts: Start with the basics, such as installing Python and writing your \nfirst program. \n• Practical Examples: Illustrative examples and sample code demonstrate the \napplication of concepts. \n• Hands-On Exercises: End-of-chapter exercises reinforce learning and build confidence. \n• Additional Resources: References to official Python documentation for deeper \nexploration. \nW H Y   P Y T H ON ? \nPython is known for its simplicity and readability, making it perfect for beginners. It is a high-\nlevel, interpreted language with a broad range of libraries and frameworks, supporting \napplications in web development, data analysis, AI, and more. Python's versatility and ease of \nuse make it a valuable tool for both novice and experienced programmers. \nA C K N OW L E D G E M E N T S \nI extend my gratitude to the educators, programmers, and contributors who have shared their \nknowledge and insights, shaping the content of this handbook. Special thanks to all the \nstudents watching my content on YouTube and Python community for maintaining a supportive \nand inspiring environment for learners worldwide. \nC ON C L U S I ON \nLearning programming can be both exciting and challenging. The “Ultimate Python \nProgramming Handbook\" aims to make your journey smooth and rewarding. Watch my video \nalong with following this handbook for optimal learning. Let this guide be your stepping stone to \nsuccess in the world of programming. \n\n2 \n \nCONTENTS \nPREFACE ........................................................................................................................................... 1 \nPurpose and Audience .................................................................................................................... 1 \nStructure and Content ..................................................................................................................... 1 \nWhy Python? ................................................................................................................................... 1 \nAcknowledgements ........................................................................................................................ 1 \nConclusion ..................................................................................................................................... 1 \nContents ........................................................................................................................................ 2 \nPython programming Handbook .......................................................................................................... 6 \nWhat is Programming? .................................................................................................................... 6 \nWhat is Python? .............................................................................................................................. 6 \nFeatures of Python .......................................................................................................................... 6 \nInstallation ..................................................................................................................................... 6 \nChapter 1 – Modules, Comments & pip ................................................................................................ 7 \nModules ......................................................................................................................................... 7 \npip ................................................................................................................................................. 7 \nTypes of Modules ............................................................................................................................ 7 \nUsing python as a calculator ............................................................................................................ 7 \nComments ..................................................................................................................................... 7 \nTypes of Comments ....................................................................."
+}

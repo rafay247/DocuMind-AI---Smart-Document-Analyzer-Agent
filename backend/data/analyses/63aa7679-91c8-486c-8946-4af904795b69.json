@@ -1,0 +1,62 @@
+{
+  "id": "63aa7679-91c8-486c-8946-4af904795b69",
+  "fileName": "The Ultimate Python Handbook.pdf",
+  "uploadedAt": "2026-01-03T21:01:00.334Z",
+  "metadata": {
+    "fileSize": 1728887,
+    "fileType": ".pdf",
+    "pageCount": 61,
+    "info": {
+      "PDFFormatVersion": "1.7",
+      "IsAcroFormPresent": false,
+      "IsXFAPresent": false,
+      "Author": "Harry Codes",
+      "Creator": "Microsoft® Word for Microsoft 365",
+      "Producer": "3.0.10 (5.0.18) ",
+      "CreationDate": "D:20240616021211+05'30'",
+      "ModDate": "D:20240615224410+02'00'"
+    },
+    "wordCount": 8845
+  },
+  "analysis": {
+    "summary": "The Ultimate Python Programming Handbook is a comprehensive guide to mastering Python programming, designed for beginners and those looking to strengthen their foundational knowledge. The handbook is divided into clear, concise chapters, each focused on a specific aspect of Python, including fundamental concepts, practical examples, hands-on exercises, and additional resources. The handbook aims to make programming accessible and enjoyable for everyone, and Python's simplicity and readability make it an ideal starting point for anyone interested in programming. The handbook covers various topics, including modules, variables, data types, strings, lists, tuples, dictionaries, sets, conditional expressions, loops, functions, and file I/O. The author extends gratitude to educators, programmers, and contributors who have shared their knowledge and insights, shaping the content of the handbook.",
+    "keyPoints": [
+      "The handbook is designed for beginners and those looking to strengthen their foundational knowledge of Python",
+      "The handbook covers various topics, including modules, variables, data types, strings, lists, tuples, dictionaries, sets, conditional expressions, loops, functions, and file I/O",
+      "Python's simplicity and readability make it an ideal starting point for anyone interested in programming",
+      "The handbook includes hands-on exercises and additional resources to reinforce learning and build confidence",
+      "The author extends gratitude to educators, programmers, and contributors who have shared their knowledge and insights",
+      "The handbook aims to make programming accessible and enjoyable for everyone",
+      "The handbook includes a practice set for each chapter to help learners reinforce their understanding"
+    ],
+    "entities": {
+      "people": [],
+      "organizations": [],
+      "dates": [],
+      "locations": []
+    },
+    "sentiment": "Positive",
+    "actionItems": [
+      "Read the handbook to learn Python programming",
+      "Complete the hands-on exercises and practice sets to reinforce learning",
+      "Explore additional resources to deepen understanding"
+    ],
+    "topics": [
+      "Python programming",
+      "Programming concepts",
+      "Data types",
+      "Strings",
+      "Lists",
+      "Tuples",
+      "Dictionaries",
+      "Sets",
+      "Conditional expressions",
+      "Loops",
+      "Functions",
+      "File I/O"
+    ],
+    "wordCount": 3466,
+    "readingTime": "18 minutes"
+  },
+  "documentText": "\n\n\n\n1 \n \nPREFACE \nWelcome to the “Ultimate Python Programming Handbook,\" your comprehensive guide to \nmastering Python programming. This handbook is designed for beginners and anyone looking to \nstrengthen their foundational knowledge of Python, a versatile and user-friendly programming \nlanguage. \nP U R P OS E   A N D   A U D I E N C E \nThis handbook aims to make programming accessible and enjoyable for everyone. Whether \nyou're a student new to coding, a professional seeking to enhance your skills, or an enthusiast \nexploring Python, this handbook will definitely be helpful. Python's simplicity and readability \nmake it an ideal starting point for anyone interested in programming. \nS T R U C T U R E   A N D   C O N T E N T \nThe handbook is divided into clear, concise chapters, each focused on a specific aspect of \nPython: \n• Fundamental Concepts: Start with the basics, such as installing Python and writing your \nfirst program. \n• Practical Examples: Illustrative examples and sample code demonstrate the \napplication of concepts. \n• Hands-On Exercises: End-of-chapter exercises reinforce learning and build confidence. \n• Additional Resources: References to official Python documentation for deeper \nexploration. \nW H Y   P Y T H ON ? \nPython is known for its simplicity and readability, making it perfect for beginners. It is a high-\nlevel, interpreted language with a broad range of libraries and frameworks, supporting \napplications in web development, data analysis, AI, and more. Python's versatility and ease of \nuse make it a valuable tool for both novice and experienced programmers. \nA C K N OW L E D G E M E N T S \nI extend my gratitude to the educators, programmers, and contributors who have shared their \nknowledge and insights, shaping the content of this handbook. Special thanks to all the \nstudents watching my content on YouTube and Python community for maintaining a supportive \nand inspiring environment for learners worldwide. \nC ON C L U S I ON \nLearning programming can be both exciting and challenging. The “Ultimate Python \nProgramming Handbook\" aims to make your journey smooth and rewarding. Watch my video \nalong with following this handbook for optimal learning. Let this guide be your stepping stone to \nsuccess in the world of programming. \n\n2 \n \nCONTENTS \nPREFACE ........................................................................................................................................... 1 \nPurpose and Audience .................................................................................................................... 1 \nStructure and Content ..................................................................................................................... 1 \nWhy Python? ................................................................................................................................... 1 \nAcknowledgements ........................................................................................................................ 1 \nConclusion ..................................................................................................................................... 1 \nContents ........................................................................................................................................ 2 \nPython programming Handbook .......................................................................................................... 6 \nWhat is Programming? .................................................................................................................... 6 \nWhat is Python? .............................................................................................................................. 6 \nFeatures of Python .......................................................................................................................... 6 \nInstallation ..................................................................................................................................... 6 \nChapter 1 – Modules, Comments & pip ................................................................................................ 7 \nModules ......................................................................................................................................... 7 \npip ................................................................................................................................................. 7 \nTypes of Modules ............................................................................................................................ 7 \nUsing python as a calculator ............................................................................................................ 7 \nComments ..................................................................................................................................... 7 \nTypes of Comments ....................................................................."
+}
