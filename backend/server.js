@@ -16,9 +16,16 @@ const emailService = require('./services/emailService');
 const app = express();
 
 // Middleware
+// CORS Configuration
 app.use(cors({
-    origin: config.FRONTEND_URL,
-    credentials: true
+    origin: [
+        'http://localhost:3000',
+        process.env.FRONTEND_URL || 'http://localhost:3000',
+        /\.vercel\.app$/, // Allow all Vercel preview deployments
+    ],
+    credentials: true,
+    methods: ['GET', 'POST', 'PUT', 'DELETE', 'OPTIONS'],
+    allowedHeaders: ['Content-Type', 'Authorization']
 }));
 app.use(express.json());
 app.use(express.urlencoded({ extended: true }));
@@ -32,7 +39,7 @@ directories.forEach(dir => {
         console.log(`✓ Created directory: ${dir}/`);
     }
 });
-
+app.set('trust proxy', 1);
 // API Routes
 app.use('/api', apiRoutes);
 
@@ -64,6 +71,15 @@ app.use((req, res) => {
     });
 });
 
+
+
+if (process.env.NODE_ENV === 'production') {
+    app.use(express.static(path.join(__dirname, '../frontend/build')));
+
+    app.get('*', (req, res) => {
+        res.sendFile(path.join(__dirname, '../frontend/build', 'index.html'));
+    });
+}
 // Start server
 const PORT = config.PORT;
 
